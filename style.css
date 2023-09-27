@@ -77,3 +77,13 @@ body{
     color: red;
     display: none;
 }
+.attribut{
+    color: white;
+}
+.attribut span{
+    color: blue;
+}
+.attribut span:hover{
+    border-bottom: 2px solid;
+    color: aqua;
+}
